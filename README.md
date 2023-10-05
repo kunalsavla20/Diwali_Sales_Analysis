@@ -18,7 +18,8 @@ In this project, I harnessed the power of Pandas, a versatile Python library, to
 
 Dealing with missing data is a critical aspect of data preprocessing. Using Pandas, I identified missing values within the dataset and employed strategies such as imputation or removal to address these gaps. This step helped enhance the completeness and reliability of the data.
 
-![Screenshot1](PNG_Files/screenshot1.png)
+![Screenshot1](PNG_Files/Screenshot1.png)
+
 
 2. Data Cleansing:
 
