@@ -24,9 +24,9 @@ Dealing with missing data is a critical aspect of data preprocessing. Using Pand
 
 Data inconsistencies, such as typos, duplicate entries, or irregular formatting, can compromise the quality of analysis. Leveraging Pandas, we meticulously cleaned the data, rectifying these inconsistencies to ensure data uniformity and accuracy.
 
-[Screenshot1.PNG](PNG_Files/Screenshot2.PNG)
+[Screenshot2.PNG](PNG_Files/Screenshot2.PNG)
 
-[Screenshot1.PNG](PNG_Files/Screenshot3.PNG)
+[Screenshot3.PNG](PNG_Files/Screenshot3.PNG)
 
 # Exploratory Data Analysis (EDA)
 
