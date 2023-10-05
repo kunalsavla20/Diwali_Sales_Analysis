@@ -20,4 +20,8 @@ Dealing with missing data is a critical aspect of data preprocessing. Using Pand
 
 ![Screenshot](Screenshot1.PNG)
 
+2. Data Cleansing:
+
+Data inconsistencies, such as typos, duplicate entries, or irregular formatting, can compromise the quality of analysis. Leveraging Pandas, we meticulously cleaned the data, rectifying these inconsistencies to ensure data uniformity and accuracy.
+
 
