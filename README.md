@@ -18,15 +18,15 @@ In this project, I harnessed the power of Pandas, a versatile Python library, to
 
 Dealing with missing data is a critical aspect of data preprocessing. Using Pandas, I identified missing values within the dataset and employed strategies such as imputation or removal to address these gaps. This step helped enhance the completeness and reliability of the data.
 
-![Screenshot 1](PNG_Files/screenshot1.png)
+![Screenshot1](PNG_Files/screenshot1.png)
 
 2. Data Cleansing:
 
 Data inconsistencies, such as typos, duplicate entries, or irregular formatting, can compromise the quality of analysis. Leveraging Pandas, we meticulously cleaned the data, rectifying these inconsistencies to ensure data uniformity and accuracy.
 
-![Screenshot 2](PNG_Files/screenshot2.png)
+![Screenshot2](PNG_Files/screenshot2.png)
 
-![Screenshot 3](PNG_Files/screenshot3.png)
+![Screenshot3](PNG_Files/screenshot3.png)
 
 # Exploratory Data Analysis (EDA)
 
