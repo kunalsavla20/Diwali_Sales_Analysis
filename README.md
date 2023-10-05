@@ -25,8 +25,13 @@ Dealing with missing data is a critical aspect of data preprocessing. Using Pand
 Data inconsistencies, such as typos, duplicate entries, or irregular formatting, can compromise the quality of analysis. Leveraging Pandas, we meticulously cleaned the data, rectifying these inconsistencies to ensure data uniformity and accuracy.
 
 ![Screenshot](Screenshot2.PNG)
-
-
 ![Screenshot](Screenshot3.PNG)
+
+# Exploratory Data Analysis (EDA)
+
+Exploratory Data Analysis (EDA) is the heartbeat of any data analysis project, and in this project, leveraged EDA to unearth valuable insights from this dataset. EDA is the process of visually and statistically summarizing and interpreting data, and it plays a pivotal role in understanding the underlying patterns and relationships within the dataset.
+
+1. Visual Storytelling:
+Visualizations are a powerful means of storytelling, and I have used Python libraries like Matplotlib and Seaborn to craft compelling visuals. These included bar charts which helped to communicate my findings effectively.
 
 
