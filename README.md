@@ -35,4 +35,22 @@ Exploratory Data Analysis (EDA) is the heartbeat of any data analysis project, a
 1. Visual Storytelling:
 Visualizations are a powerful means of storytelling, and I have used Python libraries like Matplotlib and Seaborn to craft compelling visuals. These included bar charts which helped to communicate my findings effectively.
 
+![Screenshot](Screenshot4.PNG)
 
+![Screenshot](Screenshot5.PNG)
+
+![Screenshot](Screenshot6.PNG)
+
+![Screenshot](Screenshot7.PNG)
+
+![Screenshot](Screenshot8.PNG)
+
+![Screenshot](Screenshot9.PNG)
+
+![Screenshot](Screenshot10.PNG)
+
+![Screenshot](Screenshot11.PNG)
+
+![Screenshot](Screenshot12.PNG)
+
+![Screenshot](Screenshot13.PNG)
