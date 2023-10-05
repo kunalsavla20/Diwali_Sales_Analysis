@@ -18,15 +18,15 @@ In this project, I harnessed the power of Pandas, a versatile Python library, to
 
 Dealing with missing data is a critical aspect of data preprocessing. Using Pandas, I identified missing values within the dataset and employed strategies such as imputation or removal to address these gaps. This step helped enhance the completeness and reliability of the data.
 
-[Screenshot1.PNG](Screenshot1.PNG)
+[Screenshot1.PNG](PNG_Files/Screenshot1.PNG)
 
 2. Data Cleansing:
 
 Data inconsistencies, such as typos, duplicate entries, or irregular formatting, can compromise the quality of analysis. Leveraging Pandas, we meticulously cleaned the data, rectifying these inconsistencies to ensure data uniformity and accuracy.
 
-[Screenshot1.PNG](Screenshot2.PNG)
+[Screenshot1.PNG](PNG_Files/Screenshot2.PNG)
 
-[Screenshot1.PNG](Screenshot3.PNG)
+[Screenshot1.PNG](PNG_Files/Screenshot3.PNG)
 
 # Exploratory Data Analysis (EDA)
 
@@ -35,26 +35,25 @@ Exploratory Data Analysis (EDA) is the heartbeat of any data analysis project, a
 1. Visual Storytelling:
 Visualizations are a powerful means of storytelling, and I have used Python libraries like Matplotlib and Seaborn to craft compelling visuals. These included bar charts which helped to communicate my findings effectively.
 
-[Screenshot1.PNG](Screenshot4.PNG)
+[Screenshot4.PNG](PNG_Files/Screenshot4.PNG)
 
-[Screenshot1.PNG](Screenshot5.PNG)
+[Screenshot5.PNG](PNG_Files/Screenshot5.PNG)
 
-[Screenshot1.PNG](Screenshot6.PNG)
+[Screenshot6.PNG](PNG_Files/Screenshot6.PNG)
 
-[Screenshot1.PNG](Screenshot7.PNG)
+[Screenshot7.PNG](PNG_Files/Screenshot7.PNG)
 
-[Screenshot1.PNG](Screenshot8.PNG)
+[Screenshot8.PNG](PNG_Files/Screenshot8.PNG)
 
-[Screenshot1.PNG](Screenshot9.PNG)
+[Screenshot9.PNG](PNG_Files/Screenshot9.PNG)
 
-[Screenshot1.PNG](Screenshot10.PNG)
+[Screenshot10.PNG](PNG_Files/Screenshot10.PNG)
 
-[Screenshot1.PNG](Screenshot11.PNG)
+[Screenshot11.PNG](PNG_Files/Screenshot11.PNG)
 
-[Screenshot1.PNG](Screenshot12.PNG)
+[Screenshot12.PNG](PNG_Files/Screenshot12.PNG)
 
-[Screenshot1.PNG](Screenshot13.PNG)
-
+[Screenshot13.PNG](PNG_Files/Screenshot13.PNG)
 
 
 
