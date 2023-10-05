@@ -55,6 +55,13 @@ Visualizations are a powerful means of storytelling, and I have used Python libr
 
 ![Screenshot](Screenshot13.PNG)
 
+
+# Findings:
+
+From the EDA, I came across the findings that most of the sales is comming from 
+Married women age group 26-35 yrs from UP,  Maharastra and Karnataka working in IT, Healthcare and Aviation are more likely to buy products from Food, Clothing and Electronics category
+
+
 # Conclusion:
 
 In conclusion, of "Diwali Sales Analysis" project, powered by Python and Pandas, provided valuable insights into sales trends during the festive season. Through data cleaning, preprocessing, and exploratory data analysis (EDA), which uncovered essential patterns, identified opportunities for improvement, and gained a deeper understanding of customer behavior.
