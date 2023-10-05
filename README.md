@@ -25,9 +25,9 @@ Dealing with missing data is a critical aspect of data preprocessing. Using Pand
 
 Data inconsistencies, such as typos, duplicate entries, or irregular formatting, can compromise the quality of analysis. Leveraging Pandas, we meticulously cleaned the data, rectifying these inconsistencies to ensure data uniformity and accuracy.
 
-![Screenshot2](PNG_Files/screenshot2.png)
+![Screenshot 2](PNG_Files/Screenshot2.PNG)
 
-![Screenshot3](PNG_Files/screenshot3.png)
+![Screenshot 3](PNG_Files/Screenshot3.PNG)
 
 # Exploratory Data Analysis (EDA)
 
@@ -36,25 +36,25 @@ Exploratory Data Analysis (EDA) is the heartbeat of any data analysis project, a
 1. Visual Storytelling:
 Visualizations are a powerful means of storytelling, and I have used Python libraries like Matplotlib and Seaborn to craft compelling visuals. These included bar charts which helped to communicate my findings effectively.
 
-![Screenshot 4](PNG_Files/screenshot4.png)
+![Screenshot 4](PNG_Files/Screenshot4.PNG)
 
-![Screenshot 5](PNG_Files/screenshot5.png)
+![Screenshot 5](PNG_Files/Screenshot5.PNG)
 
-![Screenshot 6](PNG_Files/screenshot6.png)
+![Screenshot 6](PNG_Files/Screenshot6.PNG)
 
-![Screenshot 7](PNG_Files/screenshot7.png)
+![Screenshot 7](PNG_Files/Screenshot7.PNG)
 
-![Screenshot 8](PNG_Files/screenshot8.png)
+![Screenshot 8](PNG_Files/Screenshot8.PNG)
 
-![Screenshot 9](PNG_Files/screenshot9.png)
+![Screenshot 9](PNG_Files/Screenshot9.PNG)
 
-![Screenshot 10](PNG_Files/screenshot10.png)
+![Screenshot 10](PNG_Files/Screenshot10.PNG)
 
-![Screenshot 11](PNG_Files/screenshot11.png)
+![Screenshot 11](PNG_Files/Screenshot11.PNG)
 
-![Screenshot 12](PNG_Files/screenshot12.png)
+![Screenshot 12](PNG_Files/Screenshot12.PNG)
 
-![Screenshot 13](PNG_Files/screenshot13.png)
+![Screenshot 13](PNG_Files/Screenshot13.PNG)
 
 
 
