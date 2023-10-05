@@ -56,10 +56,25 @@ Visualizations are a powerful means of storytelling, and I have used Python libr
 ![Screenshot](Screenshot13.PNG)
 
 
-# Findings:
 
-From the EDA, I came across the findings that most of the sales is comming from 
-Married women age group 26-35 yrs from UP,  Maharastra and Karnataka working in IT, Healthcare and Aviation are more likely to buy products from Food, Clothing and Electronics category
+
+# Key Findings from EDA:
+
+During our Exploratory Data Analysis (EDA), we uncovered significant insights:
+
+1. Primary Customer Demographic:
+The majority of our sales are attributed to married women aged 26-35 years.
+
+2. Geographic Influence:
+Customers from regions like Uttar Pradesh, Maharashtra, and Karnataka show strong purchasing tendencies.
+
+3. Occupational Patterns:
+Professions in the Information Technology (IT), Healthcare, and Aviation sectors demonstrate a higher likelihood of making purchases.
+
+4. Preferred Product Categories:
+Customers in these demographics predominantly favor products from the Food, Clothing, and Electronics categories.
+
+These findings provide valuable guidance for tailoring marketing strategies and product offerings to specific customer segments, optimizing sales and customer satisfaction.
 
 
 # Conclusion:
