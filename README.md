@@ -85,19 +85,19 @@ These findings equip us with a deeper understanding of our customer base and pre
 
 # Limitations and Challenges Summary:
 
-1. Demographic Focus:
+1. **Demographic Focus**:
 The project primarily focused on a specific demographic, potentially limiting insights into other customer segments.
 
-2. Regional Bias:
+2. **Regional Bias**:
 Strong sales patterns in certain regions may not generalize to other geographic areas.
 
-3. Occupational Emphasis:
+3. **Occupational Emphasis**:
 While IT, Healthcare, and Aviation sectors were prominent, the analysis may not fully capture customer behavior across all industries.
 
-4. Product Category Focus:
+4. **Product Category Focus**:
 The project emphasized specific product categories, potentially overlooking opportunities in other categories.
 
-5. Data Scope:
+5. **Data Scope**:
 The findings are contingent on the scope and quality of the available data.
 
 Overcoming these limitations and challenges is essential for achieving a broader and more holistic understanding of customer behavior and preferences.
